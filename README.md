@@ -15,7 +15,7 @@ In an additional analysis, we have suggested a potential travel route based on w
   - Hotels in the Area
  
 
-##Resources
+## Resources
   - Python
     - Pandas
     - Numpy
